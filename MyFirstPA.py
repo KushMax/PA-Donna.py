@@ -1,4 +1,4 @@
-# @ Made by Mansour & Kush - 28-10-2021
+# Made by Max & Mansour 28-10-2021
 # IDS Autumn #1 Hand In assignment.
 # This is a Personal Assistance bot, just like Cortana and Alexa.
 # The goal of this program is to implement different APIs features,
